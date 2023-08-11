@@ -1,0 +1,3 @@
+*.o
+.build_*
+/test_example
